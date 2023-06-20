@@ -78,8 +78,6 @@ app.listen(process.env.PORT || 3000,function(){
 
 
 
-// API Key
-// de0cfd6312d1b90f4c9e9d1849bdbdfb-us21
 
-// audience id
-// 687d6aeb5e
+
+
